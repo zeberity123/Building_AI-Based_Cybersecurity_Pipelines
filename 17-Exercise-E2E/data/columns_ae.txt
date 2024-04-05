@@ -1,0 +1,13 @@
+apiVersion
+errorCode
+errorMessage
+eventName
+eventSource
+sourceIPAddress
+tlsDetailsclientProvidedHostHeader
+userAgent
+userIdentityaccessKeyId
+userIdentityaccountId
+userIdentityarn
+userIdentityprincipalId
+userIdentitysessionContextsessionIssueruserName
